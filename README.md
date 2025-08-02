@@ -20,5 +20,8 @@ This project uses Arduino Nano 33 BLE Sense and Edge Impulse to detect structura
 4. Visit `http://127.0.0.1:5000` to view real-time dashboard
 
 ## Team
-- Iwanthi Abeysinghe (S16083)
-- [Add your team members here]
+- Iwanthi Abeysinghe 
+- Janani Amarathunga 
+- Chamodya Morapitiya
+- Ridma Jayawardena
+  
